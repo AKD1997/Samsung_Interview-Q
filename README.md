@@ -108,7 +108,4 @@ public class PenaltyShootout {
 		}
 		return goal;
 	}
-
 }
-
-
