@@ -30,7 +30,8 @@ Maximum time allotted for the question will be not more than 3 hours.
 
 Solution will be a core-java program with public static void main () as the execution point.
 
-*/package FootBall_Programing;
+
+package FootBall_Programing;
 
 public class PenaltyShootout {
 
